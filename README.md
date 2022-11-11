@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergei
 - 👀 I’m interested in programming and sport
-- 🌱 I’m currently learning С++
+- 🌱 I’m currently learning С++, Python
 - 📫 How to reach me: s.s.gudkov@gmail.com
 
 My Study Projects:
