@@ -5,7 +5,7 @@
 
 My Study Projects:
 1. String.h. Implementation of own version of the string.h library.
-2. Cat Grep. Implementation of bash versions of cat and grep utilities.
+2. CatGrep. Implementation of bash versions of cat and grep utilities.
 3. Math.h. Implementation of own version of the math.h library.
 4. Decimal.h. Library for working with decimal numbers.
 5. Matrix.h. Library for working with two-dimensional arrays.
