@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Sergei
 - 👀 I’m interested in programming and sport
-- 🌱 I’m currently learning: С++, Python
+- 🌱 My stack: C/С++, Python, SQL
 - 📫 How to reach me: s.s.gudkov@gmail.com
 
-My Study Projects:
+My Projects:
 1. String.h. Implementation of own version of the string.h library.
 2. CatGrep. Implementation of bash versions of cat and grep utilities.
 3. Math.h. Implementation of own version of the math.h library.
